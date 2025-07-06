@@ -16,23 +16,23 @@ The Hospital Management System is a Java-based desktop application developed usi
 - Logout functionality
 
 ## Project Structure
+
 Hospital-Management-System/
-│
 ├── src/
-│ ├── Login.java
-│ ├── AddPatient.java
-│ ├── Room.java
-│ ├── Department.java
-│ ├── AllEmployeeInfo.java
-│ ├── PatientInfo.java
-│ ├── UpdatePatient.java
-│ ├── Ambulance.java
-│ ├── SearchRoom.java
-│ └── DatabaseConnection.java
+│   ├── Login.java                        → Handles secure user login
+│   ├── AddPatient.java                   → Module to register new patients
+│   ├── Room.java                         → Room management logic
+│   ├── Department.java                   → Department-related operations
+│   ├── AllEmployeeInfo.java              → Displays and manages employee records
+│   ├── PatientInfo.java                  → Displays all patient records
+│   ├── UpdatePatient.java                → Allows updating of patient details
+│   ├── Ambulance.java                    → Manages ambulance data
+│   ├── SearchRoom.java                   → Search functionality for rooms
+│   └── DatabaseConnection.java           → Database connection handler
 │
-├── assets/ (images/icons if any)
-├── HospitalDB.sql (Database schema and sample data)
-└── README.md
+├── assets/                               → Contains images or icons used in the UI
+├── HospitalDB.sql                        → SQL script for database schema and sample data
+└── README.md                             → Project documentation
 
 
 ## Technologies Used
