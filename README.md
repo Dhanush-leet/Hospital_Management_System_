@@ -20,15 +20,15 @@ The Hospital Management System is a Java-based desktop application developed usi
 ## Project Structure
 
 Hospital-Management-System -> src -> Login.java  
-Hospital-Management-System -> src -> AddPatient.java  
-Hospital-Management-System -> src -> Room.java  
-Hospital-Management-System -> src -> Department.java  
-Hospital-Management-System -> src -> AllEmployeeInfo.java  
-Hospital-Management-System -> src -> PatientInfo.java  
-Hospital-Management-System -> src -> UpdatePatient.java  
-Hospital-Management-System -> src -> Ambulance.java  
-Hospital-Management-System -> src -> SearchRoom.java  
-Hospital-Management-System -> src -> DatabaseConnection.java  
+-> AddPatient.java  
+-> Room.java  
+-> Department.java  
+-> AllEmployeeInfo.java  
+-> PatientInfo.java  
+-> UpdatePatient.java  
+-> Ambulance.java  
+-> SearchRoom.java  
+-> DatabaseConnection.java  
 Hospital-Management-System -> assets -> (images/icons if any)  
 Hospital-Management-System -> HospitalDB.sql -> (database schema and sample data)  
 Hospital-Management-System -> README.md
@@ -76,8 +76,6 @@ Password: admin123
 *Note: Credentials can be modified directly in the database.*
 
 ## Screenshots
-
-Include relevant screenshots of the application interface here (login page, add patient form, room management, etc.).
 
 ![Login](https://github.com/user-attachments/assets/c905f14f-7efa-4112-b39d-27136a02a95d)
 
