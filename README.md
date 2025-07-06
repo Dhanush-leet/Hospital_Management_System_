@@ -17,8 +17,6 @@ The Hospital Management System is a Java-based desktop application developed usi
 
 ## Project Structure
 
-## Project Structure
-
 Hospital-Management-System -> src -> Login.java  
 -> AddPatient.java  
 -> Room.java  
